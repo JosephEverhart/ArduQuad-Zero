@@ -1,0 +1,24 @@
+#-----------------------------------------#
+#--------------Parts List-----------------#
+#-----------------------------------------#
+
+1) Controllers/Processors
+	i) ATmega328
+	ii) Raspberry Pi Zero
+
+2) Peripherals
+	i) 9DOF IMU
+	ii) XBee			(1+ Mile Range)	(x2)
+	iii) XBee Explorer		(Regulated)
+	iv) XBee Explorer		(USB)
+
+3) PCB Components
+	i) 110k Ohm Resistor 				(x2)
+	ii) 220 Ohm Resistor
+	iii) 0.1 uF Capacitor 		(Non-Polar) 	(x2)
+	iv) 10 uF Capacitor 		(Polar)		(x2)
+	v) 22 pF Capacitor 		(Non-Polar) 	(x2)
+	vi) 16 Mhz Crystal
+	vii) 5V Voltage Regulator
+	viii) 1N4001 Diode 		(Rectifier)
+	ix) Small Status LED
